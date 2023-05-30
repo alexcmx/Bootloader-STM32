@@ -1,0 +1,3 @@
+../Core/Src/stm32f3xx_hal_msp.cpp:63:6:void HAL_MspInit()	16	static
+../Core/Src/stm32f3xx_hal_msp.cpp:87:6:void HAL_UART_MspInit(UART_HandleTypeDef*)	48	static
+../Core/Src/stm32f3xx_hal_msp.cpp:123:6:void HAL_UART_MspDeInit(UART_HandleTypeDef*)	16	static
